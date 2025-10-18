@@ -23,6 +23,11 @@ Supervised Learning Models:
 4) Graph-Based analysis
  - Detecting fraudulent networks and relationships between entities.
 5) Real - Time Fraud Monitoring
-  - Stream transaction data using apache kafka / Spark Streaming. 
+  - Stream transaction data using apache kafka / Spark Streaming.
+  - 
+After Cloning the given repo:
 
+open vs terminal and connect to virtual envirnoment.
+run this command to open streamlit - [streamlit run fraud_detection.py]
+It will redirect you to streamlit user interface
 
